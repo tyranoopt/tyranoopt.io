@@ -1,1 +1,1 @@
-# tyranoopt.io
+SELECT *
